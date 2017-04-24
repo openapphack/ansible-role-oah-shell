@@ -1,2 +1,4 @@
 ---
+- debug:
+    msg: "oah-install of oah.shell"
 # install oah-shell

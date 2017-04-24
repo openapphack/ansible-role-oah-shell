@@ -1,2 +1,4 @@
 ---
+- debug:
+    msg: "oah-remove of oah.shell"
 #remove oah-shell

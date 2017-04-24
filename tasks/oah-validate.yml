@@ -1,4 +1,6 @@
 ---
-# validate if the version of OAH 
+- debug:
+    msg: "oah-validate of oah.shell"
+# validate if the version of OAH
 
 # display status of oah-shell

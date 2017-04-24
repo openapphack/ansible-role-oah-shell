@@ -1,4 +1,6 @@
 ---
+- debug:
+    msg: "oah-reset of oah.shell"
 #remove oah-shell
 
 #install oah-shell
